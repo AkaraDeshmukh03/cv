@@ -1,5 +1,15 @@
+@font-face {
+ font-family: 'CarbonBold';
+ src: url (carbon_bold-webfont.woff);
+}
+
 body {
   background-color: #D9CAB3;
+}
+
+h1 {
+font-family: 'CarbonBold', sans-serif;
+  font-size: 3em;
 }
 
 .circular{
