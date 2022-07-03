@@ -1,0 +1,14 @@
+body {
+  background-color: #D9CAB3;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+hr {
+  border-style: solid none none;
+  border-width: 3px;
+  border-color: #6D9886;
+  width: 90%;
+}
