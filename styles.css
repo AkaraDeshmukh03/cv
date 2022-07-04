@@ -1,5 +1,5 @@
 @font-face {
- font-family: 'CarbonBold';
+ font-family: "Carbon Bold";
  src: url(CarbonBold.ttf);
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-font-family: 'CarbonBold';
+font-family: 'Carbon Bold';
   font-size: 3em;
 }
 
